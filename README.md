@@ -1,4 +1,3 @@
-# arduino-discrete-bayes
 ## Discrete Bayes filter using Arduino and two Ultrasonic Ranging Modules
 
 The goal of this project is use Arduino and two ranging sensors to do some simple localization in an enclosed environment. Essentially, we are trying to bring somem of the simple examples done in class to life. The localization method is the "Discrete Bayes Filter", a method of determining where an agent is on a map using Baye's rule and discrete probability.
